@@ -1,4 +1,105 @@
+
 .App {
+  text-align: center;
+}
+.CartillaTotal{
+  background-color: #ffffff;
+  display: inline-block;
+  padding:5px;
+}
+#Popover1 {
+  background-color: #6dd6f0;
+  font-size: 20px;
+  margin:10px;
+  display: inline-block;
+}
+.promoc {
+  text-align: center;
+  
+  padding:2px;
+}
+.frase{
+  background-color: #ff0000;
+  color:rgb(255, 255, 255);
+  text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  padding:2px;
+}
+.me-auto {
+  text-align: center;
+}
+
+.Cartilla1 {
+  display: inline-block;
+  font-size: 17px;
+  background-color: white;
+  margin:6px;
+  padding:10px;
+  
+  
+}
+.imagen{
+  display: inline-block;
+  margin: 10px;
+  
+}
+.imagen2{
+  display: inline-block;
+  margin: 10px;
+}
+.imagen3{
+  display: inline-block;
+  margin: 10px;
+}
+
+
+.propa{
+  background-color: #ff1b1b;
+  color:aliceblue;
+  padding: 3px;
+  text-align: center;
+  margin-bottom: 2px;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  
+}
+.caja1 {
+  background-color: rgb(189, 227, 245);
+  
+  padding: 0.5px;
+  
+}
+.cabecera {
+  
+  text-align: center ;
+  background-image: url(./back2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color:white;
+  font-size: 15px;
+  text-shadow: 2px 2px 0.5px rgba(0, 0, 0, 0.5);
+  
+}
+.medio
+{
+  font-size: 25px;
+  text-shadow: 3px 2px 1px rgba(0, 0, 0, 0.5);
+  
+  color:white;
+  text-align: center;
+  
+
+}
+.vendidos {
+  background-color: rgb(139, 184, 236);
+  
+}
+.cartilla {
+  margin:2px;
+  padding:10px;
+  background-color: rgb(192, 228, 228);
+  width:calc(22%);
+  height: auto;
   text-align: center;
 }
 
